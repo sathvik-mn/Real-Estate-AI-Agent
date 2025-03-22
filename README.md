@@ -61,3 +61,8 @@ The AI Real Estate Agent automates property search and market analysis using Fir
 ### Sample Output:
 
 ![image](https://github.com/user-attachments/assets/4007f657-c788-44fa-a204-c17b3afdf977)
+
+/n
+
+![image](https://github.com/user-attachments/assets/413e6a09-e983-48c5-8365-f633f0b8ab3e)
+
